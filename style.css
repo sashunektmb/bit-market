@@ -81,5 +81,6 @@ footer p {
     font-size: 24px;
 }
 .img{
- float:left
+ display: flex;
+    justify-content: center;
 }
