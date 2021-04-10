@@ -81,5 +81,7 @@ footer p {
     font-size: 24px;
 }
 .img{
- margin-right:100%
+   display: flex;
+    justify-content: center;
+
 }
